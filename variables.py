@@ -1,0 +1,12 @@
+jina="Faith"
+jinashule="emobilis"
+shule1="uon"
+shule_2="ku"
+nambari=45
+nambari1=77
+print(jina)
+print(jinashule)
+print(nambari+nambari1)
+print(nambari*nambari1)
+print(nambari/nambari1)
+print(nambari1-nambari)
